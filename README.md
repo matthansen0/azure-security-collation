@@ -1,7 +1,7 @@
 # Azure Security Collation
 This repository is a collation of resources related to various components of Azure Security broken down into categories.
 
-Table of Content:
+Table of Contents:
 - [Azure Security Collation](#azure-security-collation)
   - [Service Security Grab-Bag](#service-security-grab-bag)
   - [Reference and Learning Content](#reference-and-learning-content)
@@ -17,9 +17,11 @@ Table of Content:
     - [Misc](#misc)
 - [Contributing](#contributing)
 
-## Service Security Grab-Bag
+## Service Security Grab Bag
 
-*Coming Soon*
+- [Azure Services Security Grab Bag List](/security-grab-bag/README.md)
+
+The grab bag pages are designed to be a quick reference of security considerations for the various Azure Services.
 
 ## Reference and Learning Content
 
@@ -28,6 +30,7 @@ Table of Content:
 - [Microsoft Security Documentation](https://docs.microsoft.com/en-us/security/)
 - [Microsoft Security Technical Content Library](https://www.microsoft.com/en-us/security/content-library)
 - [Azure Security Benchmark Documentation](https://docs.microsoft.com/en-us/security/benchmark/azure/)
+- [Security Start Here - Architecture & Design](https://learn.microsoft.com/en-us/azure/architecture/guide/security/security-start-here)
 - [End-to-End Security in Azure](https://docs.microsoft.com/en-us/azure/security/fundamentals/end-to-end)
 - [Microsoft Security Best Practices  Security Compass)](https://docs.microsoft.com/en-us/security/compass/compass)
 - [Security in the Microsoft Cloud Adoption Framework](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/secure/)
@@ -68,6 +71,7 @@ Table of Content:
 - [Microsoft Defender for Cloud - Coverage Dashboard](https://github.com/Azure/Microsoft-Defender-for-Cloud/tree/main/Workbooks/Defender%20for%20Cloud%20Coverage)
 - [Protect your Google Cloud workloads with Microsoft Defender for Cloud](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/protect-your-google-cloud-workloads-with-microsoft-defender-for/ba-p/3073360)
 - [How to Effectively Perform a Microsoft Defender for Cloud PoC](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/how-to-effectively-perform-a-microsoft-defender-for-cloud-poc/ba-p/516874)
+- [Defender for Cloud Data Flows](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/microsoft-defender-for-cloud-data-flow/ba-p/1382800)
 
 ### Identity
 
@@ -94,6 +98,8 @@ Table of Content:
 - [DevSecOps Controls](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/secure/devsecops-controls)
 - [Microservices Governance](https://medium.com/microservices-learning/introduction-to-microservices-governance-part-iv-3e88228b7e5f)
 - [Secure DevOps Kit for Azure](https://github.com/azsk/devopskit)
+- [Azure Security for Cloud-Native Apps E-Book](https://learn.microsoft.com/en-us/dotnet/architecture/cloud-native/azure-security)
+- [Securing Enterprise DevOps Environments - E-Book](https://azure.microsoft.com/en-us/resources/securing-enterprise-devops-environments/)
 
 ### Data, AI, and IoT
 
@@ -119,6 +125,7 @@ Table of Content:
 - [Detecting Identity Attacks in Kubernetes](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/detecting-identity-attacks-in-kubernetes/ba-p/3232340)
 - [Microsoft Networking Academy Youtube](https://www.youtube.com/channel/UCy6v89YQ_u12dsxK4FH0NuA/)
 - [PaloAlto NGFW, F5 WAF, and DDos - Azure Architectural Patterns](https://www.sanganakauthority.com/2021/05/paloalto-ngfw-f5-waf-and-ddos-proven.html)
+- [Azure Networking is not like your on-onprem network](https://blog.cloudtrooper.net/2023/01/21/azure-networking-is-not-like-your-on-onprem-network/)
 
 ### Cryptography
 
