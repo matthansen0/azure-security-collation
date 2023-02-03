@@ -45,6 +45,7 @@ The grab bag pages are designed to be a quick reference of security consideratio
 - [How Microsoft Implemented a Zero Trust Security Model](https://www.microsoft.com/en-us/insidetrack/implementing-a-zero-trust-security-model-at-microsoft)
 - [Microsoft Security, Compliance and Identity Community](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/ct-p/MicrosoftSecurityandCompliance)
 - [Microsoft Security Community Youtube](https://www.youtube.com/c/microsoftsecuritycommunity)
+- [Optimizing Azure Monitor Log Analytics Costs](https://trstringer.com/log-analytics-expensive-part-1-discovery/)
 
 ### Sentinel
 
