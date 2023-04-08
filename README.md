@@ -126,7 +126,7 @@ The grab bag pages are designed to be a quick reference of security consideratio
 - [Detecting Identity Attacks in Kubernetes](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/detecting-identity-attacks-in-kubernetes/ba-p/3232340)
 - [Microsoft Networking Academy Youtube](https://www.youtube.com/channel/UCy6v89YQ_u12dsxK4FH0NuA/)
 - [PaloAlto NGFW, F5 WAF, and DDos - Azure Architectural Patterns](https://www.sanganakauthority.com/2021/05/paloalto-ngfw-f5-waf-and-ddos-proven.html)
-- [Azure Networking is not like your on-onprem network](https://blog.cloudtrooper.net/2023/01/21/azure-networking-is-not-like-your-on-onprem-network/)
+- [Azure Networking is not like your on-prem network](https://blog.cloudtrooper.net/2023/01/21/azure-networking-is-not-like-your-on-onprem-network/)
 - [Azure WAF Turning for Web Applications](https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-waf-tuning-for-web-applications/ba-p/3776133)
 
 ### Cryptography
