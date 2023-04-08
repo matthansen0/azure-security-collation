@@ -116,6 +116,7 @@ The grab bag pages are designed to be a quick reference of security consideratio
 
 - [Azure Network Security Ninja Training](https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-network-security-ninja-training/ba-p/2356101)
 - [Azure Network Security Tech Community](https://github.com/Azure/Azure-Network-Security)
+- [Interactive Guide - Security with Azure Firewall and DDOS](https://mslearn.cloudguides.com/guides/Secure%20your%20network%20infrastructure%20with%20Azure%20Firewall%20and%20Azure%20DDoS%20Protection)
 - [Tutorial Overview: Azure Web Application Firewall Security Protection and Detection Lab](https://techcommunity.microsoft.com/t5/azure-network-security-blog/tutorial-overview-azure-web-application-firewall-security/ba-p/2030423)
 - [Best practices for defending Azure Virtual Machines](https://www.microsoft.com/security/blog/2020/10/07/best-practices-for-defending-azure-virtual-machines/)
 - [Detections for Azure Firewall in Azure Sentinel](https://techcommunity.microsoft.com/t5/azure-network-security-blog/new-detections-for-azure-firewall-in-azure-sentinel/ba-p/2244958)
