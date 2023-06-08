@@ -101,6 +101,7 @@ The grab bag pages are designed to be a quick reference of security consideratio
 - [Secure DevOps Kit for Azure](https://github.com/azsk/devopskit)
 - [Azure Security for Cloud-Native Apps E-Book](https://learn.microsoft.com/en-us/dotnet/architecture/cloud-native/azure-security)
 - [Securing Enterprise DevOps Environments - E-Book](https://azure.microsoft.com/en-us/resources/securing-enterprise-devops-environments/)
+- [Manage DecSecOps Posture & Governance with Defender for DevOps](https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/manage-devops-security-posture-amp-governance-through-single/ba-p/3807050)
 
 ### Data, AI, and IoT
 
