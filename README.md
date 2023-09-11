@@ -49,6 +49,7 @@ The grab bag pages are designed to be a quick reference of security consideratio
 
 ### Sentinel
 
+- [Microsoft Sentinel Academy](https://microsoft.github.io/PartnerResources/skilling/microsoft-security-academy/sentinel-academy)
 - [Making Sentinel Work for you (whitepaper)](https://www.microsoft.com/security/blog/2020/07/09/making-azure-sentinel-work/)
 - [Become a Microsoft Sentinel Ninja: The Complete level 400 training](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/become-a-microsoft-sentinel-ninja-the-complete-level-400/ba-p/1246310)
 - [Best Practices for designing a Microsoft Sentinel or Azure Defender for Cloud Workspace](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/best-practices-for-designing-a-microsoft-sentinel-or-azure/ba-p/832574)
