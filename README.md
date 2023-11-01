@@ -64,6 +64,7 @@ The grab bag pages are designed to be a quick reference of security consideratio
 - [Detecting malware kill chains with Defender & Microsoft Sentinel](https://learnsentinel.blog/2022/02/28/detecting-malware-kill-chains-with-defender-and-microsoft-sentinel/)
 - [Joint forces - MS Sentinel and the MITRE framework](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/joint-forces-ms-sentinel-and-the-mitre-framework/ba-p/3191589)
 - [Azure Sentinel Side-by-Side with Splunk](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/azure-sentinel-side-by-side-with-splunk/ba-p/1211266)
+- [Sentinel All-in-One v2](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/the-azure-solution-architect-map/ba-p/689700)
 
 ### Microsoft Defender for Cloud
 
@@ -90,6 +91,8 @@ The grab bag pages are designed to be a quick reference of security consideratio
 - [Recommendations and best practices for Azure Active Directory B2C](https://docs.microsoft.com/en-us/azure/active-directory-b2c/best-practices)
 - [Implementing Azure Privileged Identity Management (PIM)](https://blog.ahasayen.com/microsoft-azure-pim/)
 - [What is, and how to use Azure B2C Custom Policies?](https://www.cloudpartner.fi/?p=5856)
+- [Orphaned Azure Security Principals Clean-up & Azure Policy Managed Identity Role Assignment Automation](https://mortenknudsen.net/?p=938)
+- [Enterprise App & Service Principal KeyCredential Assessment](https://github.com/microsoft/aad-app-credential-tools/blob/main/azuread/azuread-app-credential-remediation-guide.md)
 
 ### App/Dev
 
@@ -113,6 +116,8 @@ The grab bag pages are designed to be a quick reference of security consideratio
 - [Microsoft Defender for IoT Ninja Training](https://techcommunity.microsoft.com/t5/microsoft-defender-for-iot-blog/microsoft-defender-for-iot-ninja-training/ba-p/2428899)
 - [What is Azure Sphere Security Service?](https://www.hackster.io/news/what-is-azure-sphere-security-service-e5708d999a84)
 - [Hunting for secrets in Azure Data Factory Pipelines](https://securecloud.blog/2022/02/22/hunting-for-secrets-in-azure-data-factory-pipeline-run-inputs-and-outputs/amp/)
+- [AI Risk Assessment](https://github.com/Azure/AI-Security-Risk-Assessment)
+- [Six Security Considerations for Machine Learning Solutions](https://techcommunity.microsoft.com/t5/fasttrack-for-azure/six-security-considerations-for-machine-learning-solutions/ba-p/3718592)
 
 ### Infrastructure
 
@@ -131,6 +136,7 @@ The grab bag pages are designed to be a quick reference of security consideratio
 - [PaloAlto NGFW, F5 WAF, and DDos - Azure Architectural Patterns](https://www.sanganakauthority.com/2021/05/paloalto-ngfw-f5-waf-and-ddos-proven.html)
 - [Azure Networking is not like your on-prem network](https://blog.cloudtrooper.net/2023/01/21/azure-networking-is-not-like-your-on-onprem-network/)
 - [Azure WAF Turning for Web Applications](https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-waf-tuning-for-web-applications/ba-p/3776133)
+- [WAF Comparison Project](https://github.com/openappsec/waf-comparison-project)
 
 ### Cryptography
 
