@@ -137,6 +137,7 @@ The grab bag pages are designed to be a quick reference of security consideratio
 - [Azure Networking is not like your on-prem network](https://blog.cloudtrooper.net/2023/01/21/azure-networking-is-not-like-your-on-onprem-network/)
 - [Azure WAF Turning for Web Applications](https://techcommunity.microsoft.com/t5/azure-network-security-blog/azure-waf-tuning-for-web-applications/ba-p/3776133)
 - [WAF Comparison Project](https://github.com/openappsec/waf-comparison-project)
+- [Taxonomy of Azure PaaS Service Networking](https://blog.cloudtrooper.net/2024/01/12/taxonomy-of-azure-paas-service-access/)
 
 ### Cryptography
 
@@ -167,7 +168,7 @@ The grab bag pages are designed to be a quick reference of security consideratio
 - [NIST SP 800-53 Rev. 5 Security and Privacy Controls for Information Systems and Organizations](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final)
 - [NIST SP 800-171 Rev. 2 Protecting Controlled Unclassified Information in Nonfederal Systems and Organizations](https://csrc.nist.gov/publications/detail/sp/800-171/rev-2/final)
 
-### Misc 
+### Misc
 
 - [Microsoft Incident Response Overview](https://aka.ms/IR)
 - [Incident Response Reference Guide](https://aka.ms/IRRG)
