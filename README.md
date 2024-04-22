@@ -154,6 +154,7 @@ The grab bag pages are designed to be a quick reference of security consideratio
 - [Azure Compliance Lists](https://docs.microsoft.com/en-us/azure/compliance/)
 - [Azure Compliance Offerings](https://docs.microsoft.com/en-us/azure/compliance/offerings/)
 - [Azure Global Compliance Map](https://azure.microsoft.com/en-us/resources/azure-global-compliance-map/)
+- [Azure Service Compliance Offers](https://aka.ms/AzureComplaince)
 - [National Institute of Standards and Technology (NIST) Cybersecurity Framework (CSF) in Azure](https://docs.microsoft.com/en-us/compliance/regulatory/offering-nist-csf)
 - [Mapping to NIST CSF and ISO 27001](https://aka.ms/CyberMapping)
 - [Data Residency in Azure](https://azure.microsoft.com/en-us/global-infrastructure/data-residency/)
