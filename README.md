@@ -45,7 +45,7 @@ The grab bag pages are designed to be a quick reference of security consideratio
 - [How Microsoft Implemented a Zero Trust Security Model](https://www.microsoft.com/en-us/insidetrack/implementing-a-zero-trust-security-model-at-microsoft)
 - [Microsoft Security, Compliance and Identity Community](https://techcommunity.microsoft.com/t5/security-compliance-and-identity/ct-p/MicrosoftSecurityandCompliance)
 - [Microsoft Security Community Youtube](https://www.youtube.com/c/microsoftsecuritycommunity)
-- [Optimizing Azure Monitor Log Analytics Costs](https://trstringer.com/log-analytics-expensive-part-1-discovery/)
+- [All the Microsoft Ninja Training I Know About](https://rodtrent.substack.com/p/all-the-microsoft-ninja-training)
 
 ### Sentinel
 
@@ -65,6 +65,7 @@ The grab bag pages are designed to be a quick reference of security consideratio
 - [Joint forces - MS Sentinel and the MITRE framework](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/joint-forces-ms-sentinel-and-the-mitre-framework/ba-p/3191589)
 - [Azure Sentinel Side-by-Side with Splunk](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/azure-sentinel-side-by-side-with-splunk/ba-p/1211266)
 - [Sentinel All-in-One v2](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/the-azure-solution-architect-map/ba-p/689700)
+- [Optimizing Azure Monitor Log Analytics Costs](https://trstringer.com/log-analytics-expensive-part-1-discovery/)
 
 ### Microsoft Defender for Cloud
 
